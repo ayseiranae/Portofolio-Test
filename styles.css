@@ -3,6 +3,7 @@ body {
   margin: 200;
   padding: 0;
   text-align: center;
+  background-color: oklch(0.129 0.042 264.695);
 }
 h1 {
     font-family: "Constantia Reguler", Georgia, serif;
