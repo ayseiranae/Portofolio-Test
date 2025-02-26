@@ -3,12 +3,12 @@ body {
   margin: 200;
   padding: 0;
   text-align: center;
+  color: oklch(0.823 0.12 346.018);
   background-color: oklch(0.129 0.042 264.695);
 }
 h1 {
     font-family: "Constantia Reguler", Georgia, serif;
     font-size: 36px;
-    font-color: oklch(0.823 0.12 346.018);
 }
 h2 {
     font-family: "Constantia", Georgia, serif;
