@@ -193,6 +193,9 @@ body {
 .horizontal-scroll::-webkit-scrollbar {
   display: none;
 }
+.vertikal-scroll::-webkit-scrollbar {
+  display: none;
+}
 
 .scroll-section {
   height: 200vh;
